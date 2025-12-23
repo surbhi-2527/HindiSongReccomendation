@@ -98,9 +98,5 @@ if __name__ == "__main__":
 
     print("\nExplain why these songs match the user's mood:\n")
     print(explanation.strip())
-
-    # Static demo section (for project / viva)
-    print("\nSongs that play at the same time:\n")
-    print("- I love the beautiful woman")
-    print("- I'm so happy for you")
     print("- I wanted to look at you in the mirror")
+
