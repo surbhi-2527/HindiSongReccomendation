@@ -1,7 +1,7 @@
 🎵 AI-Based Hindi Song Recommendation System
 
 An intelligent Hindi Song Recommendation System that suggests songs based on a user’s mood, song name, or lyrics using semantic similarity and explains the recommendations using a generative AI model.
-
+ 
 This project demonstrates the integration of Information Retrieval and Generative AI concepts in a practical application.
 
 📌 Features
